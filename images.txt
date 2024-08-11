@@ -7,4 +7,4 @@ xhofe/alist:latest
 mzz2017/v2raya
 waazaafr/librespeed
 xiaoyaliu/alist
-ChineseSubFinder/ChineseSubFinder
+allanpk716/chinesesubfinder

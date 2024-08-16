@@ -9,3 +9,4 @@ waazaafr/librespeed
 xiaoyaliu/alist
 allanpk716/chinesesubfinder
 xiaoyaliu/alist
+chinesesubfinder/chinesesubfinder

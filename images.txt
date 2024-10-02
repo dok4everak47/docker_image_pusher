@@ -11,3 +11,4 @@ allanpk716/chinesesubfinder
 xiaoyaliu/alist
 allanpk716/chinesesubfinder
 ddsderek/xiaoya-emd
+portainer/portainer-ce
